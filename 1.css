@@ -309,8 +309,8 @@ margin-left: 87%;
 
  .c2 {
   margin-top: 10px;
-  color: #61ca0c;
-  transform:translateX(90px);
+  color: #040801;
+  transform:translateX(80px);
   display: inline-flex;
   /*justify-content: end;*/
 }
@@ -326,4 +326,7 @@ p{
 .end{
   background-color: #074db6;
   margin-left:30%;
+}
+.icons{
+  background-color: #00a1e1;
 }
